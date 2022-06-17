@@ -1,6 +1,6 @@
 import React from "react";
 import "./Topbar.css";
-import { Search, Person } from '@mui/icons-material';
+import { Search, Person,Chat,Notifications  } from '@mui/icons-material';
 
 function Topbar() {
   return (
@@ -10,7 +10,7 @@ function Topbar() {
       </div>
       <div className="topbarcenter">
         <div className="searchbar">
-          <Search />
+          <Search className="searchIcon"/>
           <input
             placeholder="Search For friends, post or video"
             className="searchInput"
@@ -27,7 +27,16 @@ function Topbar() {
             <Person />
             <span className="topbarIconBadge">1</span>
           </div>
+          <div className="topbarIconItem">
+            <Chat />
+            <span className="topbarIconBadge">1</span>
+          </div>
+          <div className="topbarIconItem">
+            <Notifications/>
+            <span className="topbarIconBadge">1</span>
+          </div>
         </div>
+        <img src="./Assests/person/1.jpg" alt="" className="topbarImage" />
       </div>
     </div>
   );
