@@ -1,11 +1,11 @@
 
-// import Home from './components/pages/home/Home';
-import {Person} from '@material-ui/icons'
+import Home from './components/pages/home/Home';
+
 function App() {
   return (
     <div className="App">
-     {/* <Home/> */}
-     <Person/>
+     <Home/>
+   
     </div>
   );
 }
