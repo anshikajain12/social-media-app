@@ -3,7 +3,7 @@ import './Rightbar.css'
 
 function RightBar() {
   return (
-    <div>RightBar</div>
+    <div className='rightbar'>RightBar</div>
   )
 }
 
