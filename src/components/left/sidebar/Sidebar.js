@@ -90,6 +90,39 @@ export default function Sidebar() {
             <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
             <span className="sidebarfriendname">Jane Doe</span>
           </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img src="/Assests/person/2.jpg" alt="" className="sidebarfriendimg" />
+            <span className="sidebarfriendname">Jane Doe</span>
+          </li>
+          
         </ul>
       </div>
     </div>
